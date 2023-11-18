@@ -47,7 +47,7 @@ const Header = () => {
         <Link href="#">Home</Link>
         <Link href="#">About</Link>
         <Link href="https://www.pokemon.com/us" target="_blank">Official Page</Link>
-        <Link href="https://github.com/P55D2K/mui-pokedex-app" target="_blank">Source Code</Link>
+        <Link href="https://github.com/P55D2K/redux-mui-pokedex-app" target="_blank">Source Code</Link>
       </List>
     </Box>
   )
