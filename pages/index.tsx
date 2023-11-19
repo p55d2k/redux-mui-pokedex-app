@@ -33,7 +33,7 @@ const Home = ({
   }
 
   return (
-    <div className="relative h-screen bg-black lg:h-[210vh] m-8">
+    <Box className="relative h-screen bg-black lg:h-[210vh] m-8">
       <Head>
         <title>Pokedex</title>
         <meta name="description" content="Pokedex" />
@@ -84,7 +84,7 @@ const Home = ({
           next page
         </Button>
       ) : null}
-    </div>
+    </Box>
   )
 }
 
